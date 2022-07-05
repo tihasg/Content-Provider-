@@ -1,0 +1,3 @@
+include ':samplecp'
+include ':app'
+rootProject.name = "Content Provider Sample"
